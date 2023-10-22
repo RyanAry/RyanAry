@@ -1,5 +1,6 @@
-<p align="center">
+<p align="center"><span> 
   <h1 align="center">Hi, I'm Ryan Ary, Front End Dev & UI/UX Designer</h1>
+</span>
   <br>
   👨‍🎓 I'm a Student of ITB STIKOM BALI
   <br>
