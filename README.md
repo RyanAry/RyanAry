@@ -3,7 +3,7 @@
   <br>
   👨‍🎓 I'm a Student of ITB STIKOM BALI
   <br>
-  💻 I love Writing code & Make a UI/UX Desi 😊
+  💻 I love Writing code & Make a UI/UX Designer 😊
   <br>
   📚 I’m currently focusing on Frond End Dev
   <br>
