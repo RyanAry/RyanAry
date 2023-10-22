@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/Banner1.png"  alt="RyanAry Banner">
+<img src="img/Banner2.png"  alt="RyanAry Banner">
 </p>
 
 <h1 align="center">Hi, I'm Ryan Ary, Front End Dev & UI/UX Designer</h1>
