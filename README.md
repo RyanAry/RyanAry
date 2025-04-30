@@ -2,7 +2,7 @@
 <img src="img/GithubBanner.png"  alt="RyanAry Banner">
 </p>
 
-<h1 align="center">Hi, I'm Ryan Ary, Front End Dev & UI/UX Designer</h1>
+<h1 align="center">Hi, I'm Ryan Ary, Front End Dev</h1>
 <p align="center">
   <br>
   👨‍🎓 I'm a Student of ITB STIKOM BALI
