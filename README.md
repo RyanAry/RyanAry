@@ -9,7 +9,7 @@
   <br>
   💻 I love Writing code 😊
   <br>
-  📚 I’m currently focusing on Frond End Dev
+  📚 I’m Web Developer
   <br>
   📫 How to reach me 👇
 </p>
